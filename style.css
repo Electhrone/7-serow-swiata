@@ -11,6 +11,8 @@ body{
     float: left;
     width: 90%;
     height: 92vh;
+    min-height: 420px;
+    max-height: 600px;
     background-color: #D7DFD5;
     border-top: 20px double #608D99;
     margin: 5%;
