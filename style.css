@@ -1,0 +1,27 @@
+body, html{
+    height: 100%;
+}
+body{
+    background-color: #608D99;
+}
+#baner{
+    width: 100%;
+}
+.mainstyle{
+    float: left;
+    width: 90%;
+    height: 92vh;
+    background-color: #D7DFD5;
+    border-top: 20px double #608D99;
+    margin: 5%;
+}
+.dropdown{
+    position: relative;
+    display: inline-block;
+}
+.dropbtn{
+
+}
+.dropdown-content{
+
+}
